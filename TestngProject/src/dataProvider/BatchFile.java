@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 
 public class BatchFile
 {
+	//this code is for batch file
 	@Test
 	public void launching()
 	{
